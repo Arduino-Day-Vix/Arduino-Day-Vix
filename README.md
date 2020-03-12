@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Bem vindo ao site do Arduino Day Vix!
 
-You can use the [editor on GitHub](https://github.com/Arduino-Day-Vix/LandingPage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+O Arduino Day é um evento internacional realizado pela comunidade que acontece anualmente em várias células pelo mundo todo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A iniciativa Arduino Day Vix tem o intuito de realizar um evento no dia 21/03 na UFES, utilizando as dependências do Centro Tecnológico. Toda a organização está sendo feita por alunos voluntários.
 
-### Markdown
+### Localização
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+O principal local do evento será na sala da ERUS, uma equipe de robótica da UFES.
 
-```markdown
-Syntax highlighted code block
+**UFES - CT-XII Edificio Sala de Aulas do CT - Sala 103 - Goiabeiras, Vitória - ES, 29075-053**
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Agenda
 
-1. Numbered
-2. List
+Ainda estamos confirmando algumas atrações, caso tenha uma sugestão entre em contato conosco :)
 
-**Bold** and _Italic_ and `Code` text
+- 09:00 ~ 09:30 Abertura
+- 09:30 ~ 10:00 Mesa redonda
+- 10:00 ~ 11:00 Palestra 0
+- 11:00 ~ 12:00 Palestra 1
+- 12:00 ~ 14:00 Pausa para o almoço
+- 14:00 ~ 16:00 Workshops
+- 16:00 ~ 17:00 Roda de conversa
 
-[Link](url) and ![Image](src)
-```
+### Contato
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Arduino-Day-Vix/LandingPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Obrigado por se interessar pelo evento, caso tenha alguma dúvida, sugestão ou ideia é possível nos contactar no email arduinoday.vix@gmail.com e nos acompanhar no instagram @arduinoday.vix
