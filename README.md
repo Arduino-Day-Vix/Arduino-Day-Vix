@@ -20,9 +20,25 @@ Ainda estamos confirmando algumas atrações, caso tenha uma sugestão entre em 
 - 10:00 ~ 11:00 Palestra 0
 - 11:00 ~ 12:00 Palestra 1
 - 12:00 ~ 14:00 Pausa para o almoço
-- 14:00 ~ 16:00 Workshops
+- 14:00 ~ 16:00 Workshops 0 e 1
 - 16:00 ~ 17:00 Roda de conversa
+
+### Workshops
+
+Durante o horário do workshop teremos duas atividades em paralelo: o Workshop 0 e Workshop 1
+
+* Workshop 0 - Controle de Pong com Arduino
+Workshop de introdução a prototipagem utilizando o Arduino. Neste dia, aprenderemos a fazer um controle para jogo Pong utilizando Arduino e diversos componentes eletrônicos, cobrindo a montagem e programação do controle.
+
+* Workshop 2 - Controle PID Utilizando Arduino IDE com Pololu 3pi
+Workshop de programação utilizando a Arduino IDE para programar outros controladores. Neste dia, aprenderemos a programar um robô educacional seguidor de linhas implementando um algoritmo de controle PID.
+
+### Inscrição
+
+Caso você tenha se interessado no evento e queira participar pedimos que preencha esse [formulário](https://forms.gle/XaKeJMACXkyVUYBG8) para que possamos providenciar certificados e nos preparar para a quantidade pessoas que querem atender ao evento.
 
 ### Contato
 
 Obrigado por se interessar pelo evento, caso tenha alguma dúvida, sugestão ou ideia é possível nos contactar no email arduinoday.vix@gmail.com e nos acompanhar no instagram @arduinoday.vix
+
+
